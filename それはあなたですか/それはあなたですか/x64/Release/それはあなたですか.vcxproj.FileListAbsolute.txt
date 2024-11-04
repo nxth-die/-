@@ -1,0 +1,3 @@
+C:\Users\yterb\source\repos\それはあなたですか\それはあなたですか\x64\Release\それはあなたですか.vcxproj.MdMergeInputs.cache
+C:\Users\yterb\source\repos\それはあなたですか\それはあなたですか\x64\Release\それはあなたですか.vcxproj.cppwinrt_plat.cache
+C:\Users\yterb\source\repos\それはあなたですか\それはあなたですか\x64\Release\それはあなたですか.vcxproj.cppwinrt_comp.cache
