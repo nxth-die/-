@@ -25,6 +25,6 @@ void sc() {
     DeleteDC(hMemoryDC);
     ReleaseDC(NULL, hScreenDC);
     DeleteObject(hBitmap);
-
-    std::cout << "Ñêðèíøîò ñäåëàí è ñêîïèðîâàí â áóôåð îáìåíà.\n";
+    //screenshot copy to clipboard
+    std::cout << "Ã‘ÃªÃ°Ã¨Ã­Ã¸Ã®Ã² Ã±Ã¤Ã¥Ã«Ã Ã­ Ã¨ Ã±ÃªÃ®Ã¯Ã¨Ã°Ã®Ã¢Ã Ã­ Ã¢ Ã¡Ã³Ã´Ã¥Ã° Ã®Ã¡Ã¬Ã¥Ã­Ã .\n";
 }
